@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp2</string>
+    <string name="textview">TextView</string>
+    <string name="next">NEXT</string>
+    <string name="restart_quiz">Restart Quiz</string>
+    <string name="your_score_is">Your Score is :</string>
+    <string name="share">SHARE</string>
+    <string name="nnumber_of_questions">Nnumber_Of_Questions</string>
+</resources>
